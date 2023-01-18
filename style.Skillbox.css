@@ -1,0 +1,33 @@
+body {
+    background-color: #030418;
+}
+
+.box {
+    top: 30%;
+    left: 40%;
+    position: absolute;
+}
+
+h5 {
+    color: #fff;
+    font-size: 33px;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.blue {
+    margin-top: 12px;
+    background-color: blue;
+    color: #fff;
+    border: 3px solid blue;
+    height: 40px;
+    
+}
+
+.white {
+    margin-top: 12px;
+    background-color: #030418;
+    color: #fff;
+    border: 3px solid white;
+    height: 40px;
+}
